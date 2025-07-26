@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-07-26T21:13:21.095Z",
+  "mode": "simulation",
+  "statistics": {
+    "total": 111,
+    "average": 427,
+    "highest": 1000,
+    "lowest": 13,
+    "distribution": {
+      "low": 23,
+      "moderate": 40,
+      "elevated": 23,
+      "high": 6,
+      "critical": 19
+    }
+  },
+  "methodology": {
+    "leverageWeight": 0.35,
+    "behavioralWeight": 0.25,
+    "marketWeight": 0.2,
+    "liquidityWeight": 0.1,
+    "technicalWeight": 0.1,
+    "scale": "0-1000"
+  },
+  "topRiskWallets": [
+    {
+      "wallet": "0x2de4b6b95c05171e891e1cf2a2d19f3bbfa91fdf",
+      "score": 1000
+    },
+    {
+      "wallet": "0x4abf3a5498bb4c967f21b26b7e6f5c6d6b31f78f",
+      "score": 1000
+    },
+    {
+      "wallet": "0x56ba823641bfc317afc8459bf27feed6eb9ff59f",
+      "score": 1000
+    },
+    {
+      "wallet": "0x58c2a9099a03750e9842d3e9a7780cdd6aa70b86",
+      "score": 1000
+    },
+    {
+      "wallet": "0x63f5e0f8f8f8f8f8f8f8f8f8f8f8f8f8f8f8f8f8",
+      "score": 1000
+    },
+    {
+      "wallet": "0x7db614c47b2ebfe77c088cc1a85c4ab28d3c4d4c",
+      "score": 1000
+    },
+    {
+      "wallet": "0x880a0af12da55df1197f41697c1a1b61670ed410",
+      "score": 1000
+    },
+    {
+      "wallet": "0x94bdeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "score": 1000
+    },
+    {
+      "wallet": "0x96479b087cb8f236a5e2dcbfc50ce63b2f421da6",
+      "score": 1000
+    },
+    {
+      "wallet": "0xb475576594ae44e1f75f534f993cbb7673e4c8b6",
+      "score": 1000
+    }
+  ]
+}
